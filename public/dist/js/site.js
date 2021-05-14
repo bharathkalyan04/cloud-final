@@ -24,7 +24,7 @@ let questions = [
   },
   {
     id: 3,
-    question: "What is the  form of E-mail",
+    question: "What is the full form of E-mail",
     answer: "Electronic Mail",
     options: [
       "Electronic Mail",
