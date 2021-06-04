@@ -13,7 +13,7 @@ let questions = [
   },
   {
     id: 2,
-    question: "What is the full form of CPU ?",
+    question: "What is the full form of CPU?",
     answer: "Central Processing Unit",
     options: [
       "Central Program Unit",
